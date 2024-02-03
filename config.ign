@@ -1,0 +1,1 @@
+{"ignition":{"version":"3.0.0"},"passwd":{"users":[{"name":"core","passwordHash":"$1$yoursalt$vvKxOeHWe7ScHGrVB6iK/.","sshAuthorizedKeys":["ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAAAgnBjn1L4PSZncoR+X1joRxpg+Rv7a2Vy6QCvbtpsCtkY1tVLnbYoEUzdYFHphIc0qQOdDLbUlX5bnAVGBAIswZoNh7jMk8jMUzW6305sJvnOaW8KPO5bcdLl5cmNEoumv23xzJX/a17WSd/4FZ/NTCQltcTWkelolDFl+1hKECTZwEU="]}]}}
